@@ -1,5 +1,5 @@
 # Pong: JS clone using canvas
-This is a classic pong game clone I made in js last christmas.
+A clone of the classic "pong" game, entirely made with vanilla JavaScript and HTML5.
 
 Screenshot
 ![Screenshot](./screenshot.png "Screenshot")
